@@ -1,0 +1,4 @@
+discord
+discord-py
+py-dactyl
+requests
